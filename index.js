@@ -1,0 +1,1 @@
+console.log('My first Javascript code on the Stutern Accelerator Program');
