@@ -1,1 +1,4 @@
-console.log('My first Javascript code on the Stutern Accelerator Program');
+let firstName = Elozino;
+let middleName = Lopez;
+let lastName = ASAIJE;
+console.log('lastName, firstName, middleName');
